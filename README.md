@@ -1,2 +1,2 @@
-# codeBerry
-codeBerry-n készült kódok
+# colorClock
+codeBerry-n készült colorClock
